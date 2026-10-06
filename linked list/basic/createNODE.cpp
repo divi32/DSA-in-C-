@@ -21,6 +21,6 @@ class node{
 };
 int main(){
     node n1(10);
-     cout<<n1.data;
+    cout<<n1.data;
     return 0;
 }
